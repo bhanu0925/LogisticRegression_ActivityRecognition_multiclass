@@ -1,0 +1,57 @@
+INFO:root:Activities Recognition System
+INFO:root:Data collection completed
+INFO:root:Profiling completed
+INFO:root:Missing values dropped
+INFO:root:Label encoded
+INFO:root:Data sepeation completed
+INFO:root:Data transformation - StandardScaler
+INFO:root:Checking multicollinearity
+INFO:root:Data Splitting completed
+INFO:root:Data training with  solver
+INFO:root:newton-cg
+INFO:root:Data training with  solver
+INFO:root:sag
+INFO:root:Data training with  solver
+INFO:root:saga
+INFO:root:Data training with  solver
+INFO:root:lbfgs
+INFO:root:Data training with  solver
+INFO:root:newton-cg
+INFO:root:Data training with  solver
+INFO:root:sag
+INFO:root:Data training with  solver
+INFO:root:saga
+INFO:root:Data training with  solver
+INFO:root:lbfgs
+INFO:root:Data training with  solver
+INFO:root:newton-cg
+INFO:root:Data training with  solver
+INFO:root:sag
+INFO:root:Data training with  solver
+INFO:root:saga
+INFO:root:Data training with  solver
+INFO:root:lbfgs
+INFO:root:Data training with  solver
+INFO:root:newton-cg
+INFO:root:Data training with  solver
+INFO:root:sag
+INFO:root:Data training with  solver
+INFO:root:saga
+INFO:root:Data training with  solver
+INFO:root:lbfgs
+INFO:root:Data training with  solver
+INFO:root:newton-cg
+INFO:root:Data training with  solver
+INFO:root:sag
+INFO:root:Data training with  solver
+INFO:root:saga
+INFO:root:Data training with  solver
+INFO:root:lbfgs
+INFO:root:Data training with  solver
+INFO:root:newton-cg
+INFO:root:Data training with  solver
+INFO:root:sag
+INFO:root:Data training with  solver
+INFO:root:saga
+INFO:root:Data training with  solver
+INFO:root:lbfgs
